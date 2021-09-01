@@ -3,7 +3,7 @@
 
 ![BUILD](https://img.shields.io/appveyor/build/LAKOMOOR/LKBOX?logo=CMAKE&style=plastic)
 
-A Work-In-Progress. LKBox- cross-platform game engine based on C++ and GLFW 
+**A Work-In-Progress**. **LKBox** - cross-platform game engine based on C++ and GLFW 
 
 ## Screenshot
 
