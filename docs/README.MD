@@ -1,4 +1,4 @@
-##  ![LakoMoor Dev](docs/logo.png) 
+##  ![LakoMoor Dev](logo.png) 
 **LKBox**
 
 ## Building the Engine
