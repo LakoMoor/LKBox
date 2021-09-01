@@ -12,7 +12,7 @@ A Work-In-Progress. LKBox- cross-platform game engine based on C++ and GLFW
 ![LKBox](docs/screenshot/second.PNG)
 
 ## Getting started
-###Building ReadMe
+### Building ReadMe
 [Building](docs/README.MD)
 
 A game template repository can be found here:
