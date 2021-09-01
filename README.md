@@ -20,6 +20,17 @@ A Work-In-Progress.
 
 ## Used libraries
 * [LKBox](https://github.com/lakomoor/lkbox)
+ * [GLFW]()
+ * [GLAD]()
+ * [GLM]()
+ * [IMGUI]()
+* [Assimp]()
+* [Bullet]()
+* [LuaBridge]()
+* [OpenAL]()
+* [STB]()
+* [zlib]()
+* [TinyXML]()
 
 ## License
 
