@@ -29,7 +29,7 @@ A Work-In-Progress.
   * [GLAD]()
   * [GLM]()
   * [IMGUI]()
-* [Assimp]()
+  * [Assimp]()
 
 **NO USED**
 * [Bullet]()
