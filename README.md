@@ -15,11 +15,6 @@
 ### Building ReadMe
 [Building](docs/README.MD)
 
-### Game template
-A game template repository can be found here:
-
-**WIP**
-
 ## State
 A Work-In-Progress.
 
